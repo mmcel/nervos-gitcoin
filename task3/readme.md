@@ -1,4 +1,5 @@
-![2 deploy](https://user-images.githubusercontent.com/82708391/128819723-c1bb90db-2ea5-4841-ae49-ff24667f7d74.PNG)
+![2 call](https://user-images.githubusercontent.com/82708391/128819805-70cb0c99-13ad-41f1-899e-860f10efccc8.PNG)
+
 
 	Transaction hash: 0xd9809abb54043332b36a284bdbf7593239fe4a84d50a9a30cb88a46864f13aef
 	Deployed contract address: 0x049dF018e6BEF56082441F43f5ca7F48C2E2c1F9
